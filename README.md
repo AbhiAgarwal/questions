@@ -42,6 +42,9 @@
 		- Drainage: Sewage system
 		- Heat, Warmth, Light: Electricity & Electronics
 	- Intake: Water, Food
+- Simplest Model
+	1. Water, and food
+	2. Sap that is a combination of water & food (soylent?)
 
 ####First law of thermodynamics
 
