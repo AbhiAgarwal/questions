@@ -33,6 +33,7 @@
 	- Reference my Gallatin Quantification Papers (2) for this issue?
 - How can we define intelligence, and then quantify it?
 	- Do we need to define something in order to quantify it, or do we quantify it by defining it? OR do we allow it to be quantified when we define it.
+	- Give and think about a breakdown of the patterns. Reserach and lookup the patterns themselves.
 
 ####Materials
 
