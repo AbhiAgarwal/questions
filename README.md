@@ -4,6 +4,8 @@
 	- People generally use the term Artificial Intelligence.
 	- They say when an AI is created. What does that actually mean?
 		- What does the "AI" constitute of?
+	- What are "AI TECHNOLOGIES" that these big startups are talking about?
+		- Not really traditional AI theory here. It's definitely AI. Is AI anything that can act intelligent here?
 - What is morality to an AI?
 	- Three laws of robotics?
 	- Judgement?
