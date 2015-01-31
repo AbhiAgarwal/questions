@@ -26,6 +26,8 @@
 	- How should it understand these things?
 - Should an AI be programmed once? Or should it be capable or re-writing itself? 
 - How should it differenciate between reality and not? 
+- "Computers by their very nature are the most inflexible, desireless, rule-following of beasts. Fast though they may be, they are nontheless the epitome of unconsciousness. How, then, can intelligent behavior be programmed? ..." (GEB, 26)
+- "[The] strange flavor of AI work is that people try to put together long sets of rules in strict formualisms which tell infexible machines how to be flexible." (GEB, 26)
 
 ####Machine Learning
 
