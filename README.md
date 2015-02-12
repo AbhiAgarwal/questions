@@ -29,6 +29,7 @@
 - "Computers by their very nature are the most inflexible, desireless, rule-following of beasts. Fast though they may be, they are nontheless the epitome of unconsciousness. How, then, can intelligent behavior be programmed? ..." (GEB, 26)
 - "[The] strange flavor of AI work is that people try to put together long sets of rules in strict formualisms which tell infexible machines how to be flexible." (GEB, 26)
 - Do we want AI to naturally intelligence, or have general intelligence? Or do we want them to be intelligent at specific things? We are developing both. With specific intelligence we have achiveved excellence in many games (Chess), and also built theorem solvers, which require an incredible amount of logic. With general intelligence we've to approach the problem differently because the AI would have to learn to do play games as well as be able to solve theorems. 
+- Is an AI a better version of us? Or is it a replication of us? Or is it not us? The points in the book Superintelligence make us think that it's going to be as intelligent as us but even more. Is our aim to create something that's just like us? 
 
 ####Machine Learning
 
